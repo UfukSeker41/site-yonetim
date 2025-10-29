@@ -486,19 +486,6 @@ siteyonetim/
 2. Kullanıcı bilgileri MySQL'e kaydedilir
 3. Kullanıcı login olabilir ve sistem kullanabilir
 
----
-
-## 🎯 Gelecek Özellikler (Roadmap)
-
-- [ ] WebRTC video chat entegrasyonu
-- [ ] E-posta bildirimleri
-- [ ] Dosya paylaşımı
-- [ ] Aidat yönetim modülü
-- [ ] Mobil uygulama (React Native)
-- [ ] Bildirim tercihleri
-- [ ] Gelişmiş raporlama
-
----
 
 ## 🤝 Katkıda Bulunma
 
@@ -533,3 +520,4 @@ Proje Yöneticisi - Site Yönetim Sistemi
 ---
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
+
